@@ -16,4 +16,4 @@ of publically available GoT datasets and produced far superior GoT visualization
   3. familytreemaker.py: Adrien Verge produced the [original family tree](https://github.com/adrienverge/familytreemaker) plotting script, which I've altered only very slightly to skirt by some UTF-8 issues that pop up on some platforms.
 
 V. USAGE NOTES: 
-If you want to use these scripts on your own, please note that you'll need to install the appropriate [graphviz package](https://www.graphviz.org/download/)
+If you want to use these scripts on your own, please note that you'll need to install the appropriate [graphviz package](https://www.graphviz.org/download/).
