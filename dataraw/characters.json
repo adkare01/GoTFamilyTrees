@@ -2490,6 +2490,9 @@
          "parentOf":[
             "Margaery Tyrell",
             "Loras Tyrell"
+         ],
+         "parents":[
+            "Olenna Tyrell"
          ]
       },
       {
@@ -2733,6 +2736,10 @@
             "Dickon Tarly",
             "Samwell Tarly",
             "Talla Tarly"
+         ],
+         "parents":[
+            "Alester Florent",
+            "Melara Florent"
          ]
       },
       {
@@ -4015,6 +4022,10 @@
          ],
          "parentOf":[
             "Shireen Baratheon"
+         ],
+         "parents":[
+            "Alester Florent",
+            "Melara Florent"
          ]
       },
       {
